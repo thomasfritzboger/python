@@ -1,0 +1,8 @@
+__pycache__
+hello.ipynb
+hello_module.py
+my_exercise02_3_script.py
+my_libs
+my_libs_test
+names_module.py
+webget.py

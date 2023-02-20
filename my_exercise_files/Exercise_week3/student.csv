@@ -1,0 +1,14 @@
+stud_name,Gender,course_name,Teacher,ECTS,Class_room,Grade,image_url
+Student 1,Female,Security,Thomas,10,c1,2,http//:www.Student 1.cphbusiness.dk
+Student 2,Male,TypeScript,Nikolaj,10,c2,12,http//:www.Student 2.cphbusiness.dk
+Student 2,Male,GameDev,Daniel,10,c2,12,http//:www.Student 2.cphbusiness.dk
+Student 2,Male,Security,Daniel,10,c2,12,http//:www.Student 2.cphbusiness.dk
+Student 3,Male,Security,Nikolaj,10,c3,4,http//:www.Student 3.cphbusiness.dk
+Student 3,Male,Python,Daniel,10,c3,10,http//:www.Student 3.cphbusiness.dk
+Student 3,Male,Python,Daniel,10,c3,7,http//:www.Student 3.cphbusiness.dk
+Student 4,Female,TypeScript,Jörg,10,c4,,http//:www.Student 4.cphbusiness.dk
+Student 4,Female,Security,Nikolaj,10,c4,10,http//:www.Student 4.cphbusiness.dk
+Student 4,Female,Security,Jon,10,c4,2,http//:www.Student 4.cphbusiness.dk
+Student 5,Male,Python,Nikolaj,10,c5,10,http//:www.Student 5.cphbusiness.dk
+Student 5,Male,TypeScript,Nikolaj,10,c5,2,http//:www.Student 5.cphbusiness.dk
+Student 5,Male,Security,Nikolaj,10,c5,,http//:www.Student 5.cphbusiness.dk
