@@ -1,6 +1,6 @@
 import numpy as np
 import csv
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 filename = './befkbhalderstatkode.csv'
 
@@ -53,10 +53,8 @@ array_res = np.array(list(dict_result.items()), dtype=object)
 dict_res_sorted = dict(sorted(dict_result.items(), key = lambda item: item[1], reverse=True))
 #print(dict_res_sorted)
 
-
-plt.bar(dict_res_sorted.keys(), dict_res_sorted.values())
-plt.show()
-
+#plt.bar(dict_res_sorted.keys(), dict_res_sorted.values())
+#plt.show()
 
 # 5. Create a boolean mask to find out how many people above 65 years lived in Copenhagen in 2015
 
@@ -95,7 +93,6 @@ vesterbro = []
 
 
 
-
 for year in range(1992, 2016):
     mask_osterbro = (data[:, 0] == year) & (data[:, 1] == 2)
     osterbro_count = np.sum(data[mask_osterbro, 4])
@@ -107,7 +104,6 @@ for year in range(1992, 2016):
 
 # Print the two arrays
 print(osterbro, vesterbro)
-
 
 
 
