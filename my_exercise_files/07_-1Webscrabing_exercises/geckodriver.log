@@ -1,0 +1,4 @@
+1678532512868	geckodriver	INFO	Listening on 127.0.0.1:54259
+1678532513392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40837" "-no-remote" "-profile" "/tmp/rust_mozprofileR6liea"
+Unable to init server: Broadway display type not supported: host.docker.internal:0
+Error: cannot open display: host.docker.internal:0
