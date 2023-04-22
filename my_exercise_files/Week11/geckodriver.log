@@ -425,3 +425,67 @@ JavaScript error: https://unsplash.com/a/en-US/10.077a3a619b81e407edf9.js, line 
 JavaScript error: https://unsplash.com/a/en-US/9661.b644bb32e7eb72cdb195.js, line 1: SyntaxError: expected expression, got '.'
 JavaScript error: https://unsplash.com/a/en-US/main.f97c92d611ebd04c5841.js, line 1: SyntaxError: expected expression, got '.'
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1682162988001	geckodriver	INFO	Listening on 127.0.0.1:44949
+1682162988550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--remote-debugging-port" "58933" "-no-remote" "-profile" "/tmp/rust_mozprofilewXnUia"
+*** You are running in headless mode.
+1682162990991	Marionette	INFO	Listening on port 41037
+1682162991076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://unsplash.com/s/photos/jeep, line 93: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/3125.9880d29344be713cc39b.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/6393.dc179a093efd49bcf901.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/655.af022049d22bb7f923e1.js, line 1: SyntaxError: expected expression, got '.'
+JavaScript error: https://unsplash.com/a/en-US/app-nav-main-content.cef3f6419e83fd44c61f.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/9814.6f17438028305219ba41.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/nav-tail-menus.ac12320bfacd568a102c.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/9803.badfc6540910d7ae31d9.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/702.4c6f83a714a30c9d7f13.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/4481.cc096118272f726d9d19.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/search-route.94662e92fe84f20d29bb.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/5360.e52b2d49873d68b2fd9c.js, line 1: SyntaxError: expected expression, got '?'
+JavaScript error: https://unsplash.com/a/en-US/2723.50319c97da8940b36512.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/7159.9aafc468e677cb73326c.js, line 1: SyntaxError: expected expression, got '.'
+JavaScript error: https://unsplash.com/a/en-US/8842.f2c15767ca2d0ee15da5.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/3366.79d3ee40cb2b62a94083.js, line 1: SyntaxError: expected expression, got '?'
+JavaScript error: https://unsplash.com/a/en-US/6469.adefa28ee9ff532c00f5.js, line 1: SyntaxError: expected expression, got '?'
+JavaScript error: https://unsplash.com/a/en-US/6766.c980e65e40a5ba2c6017.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/3655.95ac1a55dc68d8e94b8b.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/1481.e770dfd71c07654cc15f.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/search-photos-route.7eaedaef8ae2ac16cec2.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/framework.1544673a046922f6ad4c.js, line 2: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/4459.8ebe65ed43702694c3b3.js, line 2: SyntaxError: missing : after property id
+JavaScript error: https://unsplash.com/a/en-US/10.077a3a619b81e407edf9.js, line 2: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/9661.b644bb32e7eb72cdb195.js, line 1: SyntaxError: expected expression, got '.'
+JavaScript error: https://unsplash.com/a/en-US/main.f97c92d611ebd04c5841.js, line 1: SyntaxError: expected expression, got '.'
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1682163047744	geckodriver	INFO	Listening on 127.0.0.1:39291
+1682163048300	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "--remote-debugging-port" "43745" "-no-remote" "-profile" "/tmp/rust_mozprofile6d5eG9"
+*** You are running in headless mode.
+1682163050420	Marionette	INFO	Listening on port 36335
+1682163050431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://unsplash.com/s/photos/jeep, line 93: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/3125.9880d29344be713cc39b.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/6393.dc179a093efd49bcf901.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/655.af022049d22bb7f923e1.js, line 1: SyntaxError: expected expression, got '.'
+JavaScript error: https://unsplash.com/a/en-US/app-nav-main-content.cef3f6419e83fd44c61f.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/9814.6f17438028305219ba41.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/nav-tail-menus.ac12320bfacd568a102c.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/9803.badfc6540910d7ae31d9.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/702.4c6f83a714a30c9d7f13.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/4481.cc096118272f726d9d19.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/search-route.94662e92fe84f20d29bb.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/5360.e52b2d49873d68b2fd9c.js, line 1: SyntaxError: expected expression, got '?'
+JavaScript error: https://unsplash.com/a/en-US/2723.50319c97da8940b36512.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/7159.9aafc468e677cb73326c.js, line 1: SyntaxError: expected expression, got '.'
+JavaScript error: https://unsplash.com/a/en-US/8842.f2c15767ca2d0ee15da5.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/3366.79d3ee40cb2b62a94083.js, line 1: SyntaxError: expected expression, got '?'
+JavaScript error: https://unsplash.com/a/en-US/6469.adefa28ee9ff532c00f5.js, line 1: SyntaxError: expected expression, got '?'
+JavaScript error: https://unsplash.com/a/en-US/6766.c980e65e40a5ba2c6017.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/3655.95ac1a55dc68d8e94b8b.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/1481.e770dfd71c07654cc15f.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/search-photos-route.7eaedaef8ae2ac16cec2.js, line 1: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/framework.1544673a046922f6ad4c.js, line 2: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/4459.8ebe65ed43702694c3b3.js, line 2: SyntaxError: missing : after property id
+JavaScript error: https://unsplash.com/a/en-US/10.077a3a619b81e407edf9.js, line 2: ReferenceError: globalThis is not defined
+JavaScript error: https://unsplash.com/a/en-US/9661.b644bb32e7eb72cdb195.js, line 1: SyntaxError: expected expression, got '.'
+JavaScript error: https://unsplash.com/a/en-US/main.f97c92d611ebd04c5841.js, line 1: SyntaxError: expected expression, got '.'
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
